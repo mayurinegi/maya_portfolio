@@ -1,6 +1,6 @@
 # maya_portfolio
 
-# [project 1: Churn Analysis using Predictive Modelling]([https://github.com/udaybhan10/CustomerChurnPrediction](https://github.com/mayurinegi/churn-analysis-dataset/blob/main/230173266_models.ipynb)
+# [project 1: Churn Analysis using Predictive Modelling](https://github.com/mayurinegi/churn-analysis-dataset/blob/main/230173266_models.ipynb)
 
 Project: Customer Churn Prediction for a Digital Music Streaming Platform
 
